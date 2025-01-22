@@ -1,4 +1,4 @@
-# Multi-Signal Viewer
+# BioSignalScope Real time biological signals viewer
 ![Application Overview](Images/overview.png "Overview of Multi-Signal Viewer")
 
 ## Overview
@@ -190,3 +190,6 @@ The Multi-Signal Viewer relies on the following technologies and libraries to de
     </td>
   </tr>
 </table>
+
+## Acknowledgments
+These projects was supervised by Dr. Tamer Basha as part of the Digital Signal Processing course at Cairo University Faculty of Engineering.
